@@ -1,6 +1,6 @@
 ## 👋 Greetings — I’m Anupam ([@imeanup](https://imeanup.github.io/))
 
-I build small, useful tools that make everyday web work less annoying. My current focus is **[Highlighter-Plus](https://imeanup.github.io/highlighter-support/)** — fast highlighter marks text in multiple colors across multiple tabs, with a quick toggle to turn highlighting on/off or reset it whenever needed. It started as a personal helper and turned into something I wanted to share because it actually made reading and researching faster.
+I build small, useful tools that make everyday web work less annoying. My current focus is **[Highlight Plus](https://imeanup.github.io/highlighter-support/)** — fast highlighter marks text in multiple colors across multiple tabs, with a quick toggle to turn highlighting on/off or reset it whenever needed. It started as a personal helper and turned into something I wanted to share because it actually made reading and researching faster.
 
 ---
 
